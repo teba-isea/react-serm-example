@@ -1,0 +1,12 @@
+body {
+  background: rgb(0, 0, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 255, 0.9429971817828694) 23%,
+    rgba(0, 212, 255, 1) 98%
+  );
+}
+
+.color-white{
+  color: white;
+}
